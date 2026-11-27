@@ -2,7 +2,7 @@
 
 Landing page for DrawBridge, the VS Code extension that holds AI-written code until you prove you understand it.
 
-Live at **https://drawbridge-lake.vercel.app**
+Live at **https://drawbrdge.com**
 
 ## What's here
 
